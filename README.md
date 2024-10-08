@@ -19,11 +19,9 @@ This project analyzes a Portuguese bank's marketing campaigns aimed at promoting
 
 ## Files
 - **Analysis Report:** Provides detailed exploration of the dataset and results.
-- **R Script:** Contains the code used for data cleaning, visualization, and analysis.
 
 ## How to Use
-1. Clone the repository or download the files.
-2. Open the R script file and run the code in your R environment.
+1. Download the files.
 3. Review the generated visualizations to understand key trends and insights.
 
 ## Dataset
